@@ -1,0 +1,14 @@
+.page-base {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 0px 1.0875rem 1.45rem;
+  padding-top: 0;
+  font-family: sans-serif;  
+}
+
+.image {
+  :hover {
+    opacity: .75;
+    // transition-delay: .05s;
+  }
+}
